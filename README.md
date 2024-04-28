@@ -14,7 +14,7 @@ Usage:
 3.Logout: Securely log out of the application to end your session.
 
 Technologies Used:
--XAMPP: Development environment bundling Apache, MySQL, PHP, and Perl.
+-XAMPP: Development environment bundling Apache, MySQL, and PHP.
 -PHP: Server-side scripting language used for backend development.
 -MySQL: Relational database management system for storing user data.
 -HTML/CSS: Frontend markup and styling languages for user interface design.
